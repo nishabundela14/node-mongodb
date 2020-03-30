@@ -1,0 +1,7 @@
+.vscode
+
+server/node_modules
+*.rest
+package-lock.json
+
+
